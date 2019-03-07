@@ -1,0 +1,20 @@
+### PuTTY ###
+# Private key
+*.ppk
+
+
+### Packages / Compiled source ###
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+
+### Text files ###
+*.txt
